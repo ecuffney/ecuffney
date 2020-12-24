@@ -1,4 +1,4 @@
-<h1>Greetings traveler</h1>... 👋
+<h1>Greetings traveler.. 👋</h1>
 
 My name is Eric. I am a bookworm and cycling nerd with a passion for change. 
 
